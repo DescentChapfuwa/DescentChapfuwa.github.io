@@ -2315,3 +2315,10 @@ button,
 .subject{
   list-style: none;
 }
+.grr{
+  color: grey;
+  text-decoration: none;
+}
+.wait{
+  height: 12px;
+}
