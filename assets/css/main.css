@@ -2322,3 +2322,12 @@ button,
 .wait{
   height: 12px;
 }
+
+.info{
+  list-style: none;
+}
+
+.button .health{
+  padding: 0px;
+
+}
